@@ -1,0 +1,18 @@
+{
+    "headphonesLocators":{
+        "beatsStudio": "img[id='15']",
+        "boseSoundLinkHeadphones": "img[id='13']",
+        "item1": "img[id='44']",
+        "item2": "img[id='42']",
+        "item3": "img[id='43']",
+        "item4": "img[id='35']",
+        "item5": "img[id='36']",
+        "item6": "img[id='37']",
+        "item7": "img[id='38']",
+        "item8": "img[id='39']",
+        "item9": "img[id='40']",
+        "item10": "img[id='41']",
+        "hpH2310": "img[id='12']",
+        "logitechH390": "img[id='14']"
+    }
+}

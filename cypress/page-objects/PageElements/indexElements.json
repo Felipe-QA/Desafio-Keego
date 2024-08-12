@@ -1,0 +1,13 @@
+{
+  "indexLocators": {
+    "speakerCategory": "[id='speakersImg']",
+    "tabletsCategory": "[id='tabletsImg']",
+    "laptopsCategory": "[id='laptopsImg']",
+    "miceCategory": "[id='miceImg']",
+    "headphonesCategory": "[id='headphonesImg']",
+    "cartButton": "[id='menuCart']",
+    "checkoutButton": "[id='checkOutPopUp']",
+    "removeProduct": "div.removeProduct",
+    "emptyCart": "label[translate='Your_shopping_cart_is_empty']"
+  }
+}

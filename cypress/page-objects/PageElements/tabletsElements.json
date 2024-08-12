@@ -1,0 +1,7 @@
+{
+    "tabletsLocators":{
+        "hpElitePad": "img[id='16']",
+        "hpEliteX2": "img[id='17']",
+        "hpProTablet": "img[id='18']"
+    }
+}

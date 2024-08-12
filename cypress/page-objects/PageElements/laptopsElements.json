@@ -1,0 +1,15 @@
+{
+    "laptopsLocators":{
+        "hpChromebookEnergyStar": "img[id='9']",
+        "hpChromebookES": "img[id='10']",
+        "hpEnvy17t": "img[id='7']",
+        "hpEnvyX360": "img[id='6']",
+        "hpPavilionTouch": "img[id='1']",
+        "hpPavilion15z": "img[id='2']",
+        "hpPavilion15zTouch": "img[id='3']",
+        "hpPavilionX360Touch": "img[id='11']",
+        "hpSpectre": "img[id='4']",
+        "hpStream": "img[id='5']",
+        "hpZBook": "img[id='8']"
+    }
+}

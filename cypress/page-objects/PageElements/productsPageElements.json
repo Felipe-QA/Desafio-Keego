@@ -1,0 +1,9 @@
+{
+    "productsPageLocators": {
+        "plusButton": "div.plus",
+        "minusButton": "div.minus",
+        "saveToCartButton": "button[name='save_to_cart']",
+        "quantityButton": "[name=quantity]",
+        "checkPage": "h1.ng-binding"
+    }
+}

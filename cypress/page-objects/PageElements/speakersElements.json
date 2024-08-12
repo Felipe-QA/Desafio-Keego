@@ -1,0 +1,11 @@
+{
+    "speakersLocators": {
+        "boseSoundLinkBluetooth": "img[id='20']",
+        "boseSoundLinkWireless": "img[id='25']",
+        "hpRearMini": "img[id='24']",
+        "hpRoarPlus": "img[id='21']",
+        "hpRoarWireless": "img[id='22']",
+        "hpS9500": "img[id='19']",
+        "LogitechX100": "img[id='23']"
+    }
+}

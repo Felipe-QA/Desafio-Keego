@@ -1,0 +1,13 @@
+{
+    "miceLocators": {
+        "up3button": "img[id='29']",
+        "hpZ3200": "img[id='28']",
+        "hpZ3600": "img[id='27']",
+        "hpZ4000": "img[id='30']",
+        "hpZ8000": "img[id='33']",
+        "kensington72337": "img[id='32']",
+        "kensington72352": "img[id='26']",
+        "logitechG502": "img[id='31']",
+        "microsoftSculpt": "img[id='34']"
+    }
+}

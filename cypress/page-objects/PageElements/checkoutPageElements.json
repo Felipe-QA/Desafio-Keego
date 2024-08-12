@@ -1,0 +1,7 @@
+{
+    "checkoutLocators":{
+        "orderSummary": "h5[translate='ORDER_SUMMARY']",
+        "productInCart": "tr[id='product']",
+        "quantity": "label.ng-binding"
+    }
+}
