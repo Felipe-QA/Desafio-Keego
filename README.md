@@ -13,3 +13,6 @@
 
 ## 4° Passo: Instalar o pacote Cucumber
     - Para instalar o pacote cucumber, abra o terminal e digite `npm install cypress-cucumber-preprocessor --save-dev`
+
+## 5º Passo: Instalar o patcote form-data
+    - Para instalar o pacote form-data, abra o terminal e digite `npm install form-data`
