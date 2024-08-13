@@ -13,6 +13,7 @@
         "item9": "img[id='40']",
         "item10": "img[id='41']",
         "hpH2310": "img[id='12']",
-        "logitechH390": "img[id='14']"
+        "logitechH390": "img[id='14']",
+        "soldOutBanner": "div.soulOut:not(.ng-hide)"
     }
 }

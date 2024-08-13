@@ -19,6 +19,18 @@ export class productsPageActions{
         return
     }
 
+    saveToCartButtonDisable(){
+        cy.get(productsPageElementsLocators.productsPageLocators.saveToCartButton)
+            .should("have.class", "disable")
+            return
+    }
+
+    checkSoldOutBanner(){
+        cy.get(productsPageElementsLocators.productsPageLocators.soldOutBannerProducts)
+            .should("be.visible")
+            return
+    }
+
     checkQuantity(){
         cy.get(productsPageElementsLocators.productsPageLocators.quantityButton)
             .should("have.value", '3')

@@ -20,7 +20,7 @@ beforeEach("",() => {
   products_Actions.saveToCartButton();
 })
 
-describe("Delete quantity of cart", () => {
+describe("User delete quantity of cart", () => {
     Given("I Have a product with more than one quantity in the cart", () => {
         index_Actions.cartButtonClick();
     });
@@ -51,7 +51,7 @@ describe("Delete quantity of cart", () => {
     });
   });
 
-describe("Remove product from Shopping Cart Page", () => {
+describe("User remove product from Shopping Cart Page", () => {
   Given("I'm on the Shopping Cart Page with one product", () =>{
     index_Actions.cartButtonClick();
   });
@@ -65,7 +65,7 @@ describe("Remove product from Shopping Cart Page", () => {
   })
 })
 
-describe("Remove product from cart dropdown", () => {
+describe("User remove product from cart dropdown", () => {
   Given("I have one product on Cart and mouse over cart icon", () => {
     index_Actions.cartButtonMouseover();
   })

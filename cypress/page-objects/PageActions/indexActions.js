@@ -58,5 +58,6 @@ export class indexActions{
     checkQuantityFromCart(){
         cy.get(indexElementsLocators.indexLocators.emptyCart)
             .should("contain.text", "Your shopping cart is empty")
+        return
     }
 }

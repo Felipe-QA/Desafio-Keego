@@ -1,3 +1,5 @@
+import { visible } from 'ansi-colors'
+
 const headphonesElementsLocators = require('../PageElements/headphonesElements.json')
 
 export class headphonesActions{
@@ -28,6 +30,12 @@ export class headphonesActions{
     item1Click(){
         cy.get(headphonesElementsLocators.headphonesLocators.item1)
             .click()
+        return
+    }
+
+    checkSoldOutBanner(){
+        cy.get(headphonesElementsLocators.headphonesLocators.soldOutBanner)
+            .should("be.visible")
         return
     }
 
