@@ -13,3 +13,6 @@
 
 ## 4° Passo: Instalar o pacote Cucumber
     - Para instalar o pacote cucumber, abra o terminal e digite `npm install cypress-cucumber-preprocessor --save-dev`
+
+## 5º Passo: Rodar os testes
+    - Para rodar os testes, abra o terminal e digite npx cypress open para visualizar a interface ou npm run cy:test para rodar os testes no terminal.
